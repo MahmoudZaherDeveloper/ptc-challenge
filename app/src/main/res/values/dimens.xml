@@ -1,0 +1,17 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="font_weigh_500">500</dimen>
+    <dimen name="font_weigh_600">600</dimen>
+    <dimen name="font_weigh_700">700</dimen>
+
+    <dimen name="title">@dimen/_18ssp</dimen>
+    <dimen name="sub_title">@dimen/_16ssp</dimen>
+    <dimen name="body">@dimen/_14ssp</dimen>
+    <dimen name="small">@dimen/_12ssp</dimen>
+
+
+    <dimen name="xs_round">@dimen/_2sdp</dimen>
+    <dimen name="s_round">@dimen/_5sdp</dimen>
+    <dimen name="md_round">@dimen/_8sdp</dimen>
+    <dimen name="lg_round">@dimen/_10sdp</dimen>
+</resources>

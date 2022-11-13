@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PtcChallenge</string>
+    <string name="jumia_logo">Jumia Logo</string>
+    <string name="error_something_went_wrong">Something went wrong</string>
+    <string name="error_something_went_wrong_internet_connection">Please check your internet connection</string>
+    <string name="product_image">Product Image</string>
+    <string name="search">Search</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="this_product_is_not_available_try_something_else">This product is not available, try something else</string>
+    <string name="there_s_no_results">There\'s no results</string>
+
+
+</resources>

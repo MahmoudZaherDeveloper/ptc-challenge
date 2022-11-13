@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="image"
+            type="String" />
+    </data>
+
+    <ImageView
+
+        android:layout_width="@dimen/_60sdp"
+        android:padding="@dimen/_8sdp"
+        tools:src="@tools:sample/avatars"
+        android:layout_height="@dimen/_60sdp"
+        android:layout_margin="@dimen/_8sdp"
+        android:background="@drawable/stroke_shape"
+        android:contentDescription="@string/product_image"
+        app:src="@{image}" />
+
+</layout>
